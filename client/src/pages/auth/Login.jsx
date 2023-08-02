@@ -57,7 +57,7 @@ const Login = () => {
             }}
           >
             <Form.Item
-              label="Kullanıcı Adı"
+              label="E-mail"
               name={"email"}
               rules={[
                 {
